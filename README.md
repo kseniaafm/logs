@@ -1,4 +1,4 @@
-# My Logs for the DSSF Program 
+### My Logs for the DSSF Program 
 
 ## May 30th 2023
 
@@ -36,7 +36,7 @@ Today we spent sometime in the makerspace in order to get accostomed with differ
 I am sure I just need more practice with them and then I will get the hang of it. I think my adobe illustating went well though, I am proud of my work.  I am interested to see how else are we going to use these machines in order to complete this project other than the woodworking room, but I am sure we will be able to if we wanted. 
 ![The bunny sticker I have created while in Makerspace and designed on adobe illustator](https://raw.githubusercontent.com/kseniaafm/logs/main/IMG_8954.jpeg)
 
-## June 2nd 2023 ##
+## June 2nd 2023 
 
 Today we had a workshop on working with Github as well as Git and Markdown. It was very interesting but there are definetely a lot of tabs and little knobs to keep track of. I started building my own Github pages website in order to keep track of my logs instead of keeping them on VS code. I think so far it looks good, although it took me ages to learn how to input images into the webstire. I also cheated a bit and used a premade template and deleted all the information it came with in order to input my own. I tried creating my own depository without a template but it was too hard and it was not working. However, I am proud of this website that I am currently making. I really like building websited and especially when finally what I am working on falls into place and works correctly. It one of my biggest joys when it works. I also want to find a picture to represent this day and use it in my cite. 
 We also had a meeting about digital journalism with a journalist from Tech Crunch. I think it was pretty informative and I did learn a lot from it. I also like working from home via zoom because I can concentrate by myself better. 
