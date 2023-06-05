@@ -46,3 +46,5 @@ We also got a lot of new resources like this [markdown cheatsheet](https://www.m
 
 Today we planned a lot. I think we finalized the plan of action which i am really happy about because it is keeping me up at night. 
 We also talked about using tripod and zotero which is good for source collection in addition to cooperation. I really like those masterclasses although sometimes they do run a bit long. I think now that we have a research topic we can start thinking about the physical aspect of this project and the marketing. I am actually very excited for the marketing aspect of this project because I already have some ideas. Perhaps stickers w arrows on floor or interesting posters/graffiti. I am pretty excited about what we will include in this project. 
+![The current plan of action that we came up with as a group](https://raw.githubusercontent.com/kseniaafm/logs/main/IMG_9023.jpeg)
+
