@@ -48,3 +48,9 @@ Today we planned a lot. I think we finalized the plan of action which i am reall
 We also talked about using tripod and zotero which is good for source collection in addition to cooperation. I really like those masterclasses although sometimes they do run a bit long. I think now that we have a research topic we can start thinking about the physical aspect of this project and the marketing. I am actually very excited for the marketing aspect of this project because I already have some ideas. Perhaps stickers w arrows on floor or interesting posters/graffiti. I am pretty excited about what we will include in this project. 
 ![The current plan of action that we came up with as a group](https://raw.githubusercontent.com/kseniaafm/logs/main/IMG_9023.jpeg)
 
+## June 8th 2023
+
+Today I worked on the command line workshop, from home. Practicing inputting command lines into my laptop terminal. I had to stop midway because I was confused on the atom editor but was later told that instead VS Code editor is used. I think I need more practice with this concept and will do so later. Other than that, I read about nuclear reactors and how they world and realized that they are somewhat comproble to solar and wind electricity just less dependent on the environment, but that does mean they are dangerous if mismanaged. 
+I do realize that with my current concussion I need more breaks and more computer free time but I am sure I can arrange that for later. 
+I am excited to see what kind of plan my coworkers come up with for the finalizing of this project. 
+
