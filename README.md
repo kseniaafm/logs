@@ -54,3 +54,6 @@ Today I worked on the command line workshop, from home. Practicing inputting com
 I do realize that with my current concussion I need more breaks and more computer free time but I am sure I can arrange that for later. 
 I am excited to see what kind of plan my coworkers come up with for the finalizing of this project. 
 
+## June 12th 2023
+
+Today I finished the command line workshop and started the Jeckle workshop. I have not finished Jeckle work, however I think it looks relatively easy so I will finish it during another indepedent work time. I have however, done significant research for my part of the digital exhibit. I think I go most of the information in my part of the project. I got the basics of nuclear reactions, the different designs of USSR reactors. I also ,from a scientific point of view, understood the design flaws which led to the nuclear accident. Overall, I think I just have to add more details to my research outline which I am happy about. ![Diagram of the RMBK nuclear reactor used in Chernobyl](https://github.com/kseniaafm/logs/blob/main/IMG_9198.jpeg?raw=true)
