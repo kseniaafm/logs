@@ -57,3 +57,9 @@ I am excited to see what kind of plan my coworkers come up with for the finalizi
 ## June 12th 2023
 
 Today I finished the command line workshop and started the Jeckle workshop. I have not finished Jeckle work, however I think it looks relatively easy so I will finish it during another indepedent work time. I have however, done significant research for my part of the digital exhibit. I think I go most of the information in my part of the project. I got the basics of nuclear reactions, the different designs of USSR reactors. I also ,from a scientific point of view, understood the design flaws which led to the nuclear accident. Overall, I think I just have to add more details to my research outline which I am happy about. ![Diagram of the RMBK nuclear reactor used in Chernobyl](https://github.com/kseniaafm/logs/blob/main/IMG_9198.jpeg?raw=true)
+
+
+## June 13th 2023
+
+Today we had a social media workshop in which we mined for data in Twitter, which i thought was pretty interesting because I did not know that you could get so many different variables and data points from a single tweet. 
+I also started and finished the Open Refine workshop. I think as a future data science minor this will help me in my future. It definetely is hard to really navigate because there are so many different things avaliable to do with data in this program. I also think that being able to clean data is a very helpful skill for anyone really. I also read a bit more about the elephants foot which was very interesting because there are photos of people being an arms lenght away from it and to my understanding it wasnt instanly deadly, although I would like to learn about a bit more about the person who did that because that is quite a bold and reckless move. I also learned a bit more as to why radiation is harmful but I think I will do a more in depth research about it next time as well. 
