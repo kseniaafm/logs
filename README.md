@@ -63,3 +63,7 @@ Today I finished the command line workshop and started the Jeckle workshop. I ha
 
 Today we had a social media workshop in which we mined for data in Twitter, which i thought was pretty interesting because I did not know that you could get so many different variables and data points from a single tweet. 
 I also started and finished the Open Refine workshop. I think as a future data science minor this will help me in my future. It definetely is hard to really navigate because there are so many different things avaliable to do with data in this program. I also think that being able to clean data is a very helpful skill for anyone really. I also read a bit more about the elephants foot which was very interesting because there are photos of people being an arms lenght away from it and to my understanding it wasnt instanly deadly, although I would like to learn about a bit more about the person who did that because that is quite a bold and reckless move. I also learned a bit more as to why radiation is harmful but I think I will do a more in depth research about it next time as well. 
+
+## June 14th 2023
+
+Today I have started to do research on the physical effects of radiation. I have also found several chernobyl datasets, including one about the rise of cancers post chernobyl and spent time cleaning them in open refine. We then had an exhibition workshop with Hilde. Afterwards, we brainstormed ideas for the physical component of the project and used a pinterest-like tool to gather inspiration. 
