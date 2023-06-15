@@ -67,3 +67,8 @@ I also started and finished the Open Refine workshop. I think as a future data s
 ## June 14th 2023
 
 Today I have started to do research on the physical effects of radiation. I have also found several chernobyl datasets, including one about the rise of cancers post chernobyl and spent time cleaning them in open refine. We then had an exhibition workshop with Hilde. Afterwards, we brainstormed ideas for the physical component of the project and used a pinterest-like tool to gather inspiration. 
+
+
+## June 15th 2023
+
+Today I did more research on a database I found about the rise of cancer in chernobyl liquidators. And found a reason about the chernobyl accident from a medical perspective. Afterwards we measured and planned out the room for the physical exhibit. I am happy with the plan that we came up with and will start writing up a proposal for approval. We also documented the plan with a photo and included a space for people who want some area for the Chornobyl class. 
