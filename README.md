@@ -75,4 +75,4 @@ Today I did more research on a database I found about the rise of cancer in cher
 
 ## Data Visualization
 
-![Happy Visaulization]()
+![Happy Visaulization](https://raw.githubusercontent.com/kseniaafm/logs/fcabcde9e8dda43a03fe6a3ceeb773861f61a3a8/happyviz.svg)
