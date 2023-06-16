@@ -72,3 +72,7 @@ Today I have started to do research on the physical effects of radiation. I have
 ## June 15th 2023
 
 Today I did more research on a database I found about the rise of cancer in chernobyl liquidators. And found a reason about the chernobyl accident from a medical perspective. Afterwards we measured and planned out the room for the physical exhibit. I am happy with the plan that we came up with and will start writing up a proposal for approval. We also documented the plan with a photo and included a space for people who want some area for the Chornobyl class. 
+
+## Data Visualization
+
+![Happy Visaulization]()
