@@ -76,3 +76,14 @@ Today I did more research on a database I found about the rise of cancer in cher
 ## Data Visualization
 
 ![Happy Visaulization](happyviz.svg)
+
+
+## June 16th 2023
+
+wins for the week!
+proposal plan
+working with data very well, learning to use open refine
+finished my research for the digital component
+caught up with the rest of the team after my sick break 
+making a habit out of using vscode to update my github
+planned out the physical exhibit
