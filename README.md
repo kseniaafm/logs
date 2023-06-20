@@ -87,3 +87,7 @@ finished my research for the digital component
 caught up with the rest of the team after my sick break 
 making a habit out of using vscode to update my github
 planned out the physical exhibit
+
+## June 20th 2023
+
+Today we had our usual monday project meeting in which we have discussed the project thus far. I think a problem that we ran into is that Professor Vergara wants the physical exhibit to be interactive and be more of a room like formation. However, the space that we were given does not allow for that because the other main hallway will be blocked for construction and we need to leave a path(the width of a wheelchair) so that people can get through. The blocked off hallway definetely put a halt on our design process, so I am not sure how we will solve this issue to make everyone happy. We also had a css/html workshop which was pretty good for basic knowledge and I will continue practicing building one during a "research time", which I think will be Thursday. 
