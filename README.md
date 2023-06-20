@@ -75,7 +75,7 @@ Today I did more research on a database I found about the rise of cancer in cher
 
 ## Data Visualization
 
-![Happy Visaulization](happyviz.svg)
+![Cancer Location Visaulization](locationviz.svg)
 
 
 ## June 16th 2023
