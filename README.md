@@ -95,3 +95,12 @@ Today we had our usual "monday" project meeting in which we have discussed the p
 
 ## June 21st 2023
 Today we spent the whole day in park. The first part of the day was used to plan out the box design activity that we had in order to practice critical making. The rest of the day was used to plan the lookbook of the physical exhibition in which we discussed how realistic certain parts of the immersive exhibition are. We also started working on a physical project description to then present to the group on Monday if we finish it on time. 
+
+## June 22nd 2023
+Today we spent most of the day in park, mostly building the cardboard prototype for the box we were going to build. We also spend some time working on the 3d cardboard prototype of the reactor room layout. I made mine pretty minimalistic in order to have a lot of space for other ideas that others may have. I also think that having a lot of physical space for the physical exhibition will prevent overcrowding and overstimulation. Those are the things I am concerned about because they would hinder my personal experience of the exhibit so I want to make sure to include those concerns in my planning. 
+
+## June 23rd 2023
+Gallery trip! i was sick:-()
+
+## June 26th 2023
+Today we spent time on the Monday meeting in which we presented our ideas and mockup of the physical exhibit to the rest of the team. Thankfully, they seemed to like our ideas and said that we put in a lot of thought and work into the planning, which we did. I think we got everyone to agree on the basic/general idea of the space which is a huge win. Later, I started typing up the parts I have previously researched. I got 2 so far out of approximately 5-6. I also found a large database for liquidators and their jobs with names and photos for us to use in the portrait wall for the physical space. 
