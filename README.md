@@ -104,3 +104,7 @@ Gallery trip! i was sick:-()
 
 ## June 26th 2023
 Today we spent time on the Monday meeting in which we presented our ideas and mockup of the physical exhibit to the rest of the team. Thankfully, they seemed to like our ideas and said that we put in a lot of thought and work into the planning, which we did. I think we got everyone to agree on the basic/general idea of the space which is a huge win. Later, I started typing up the parts I have previously researched. I got 2 so far out of approximately 5-6. I also found a large database for liquidators and their jobs with names and photos for us to use in the portrait wall for the physical space. 
+
+## June 27th 2023
+Today we spent time doing mockups of the Juncture site that will be avaliable for the digital exhibit. I think I am almost done with my mockup. I think that I will keep working on that and typing up my material. I also contacted a physics professor in Bryn Mawr to ask if he could look over my work and correct any wrong information. He agreed and I will send him my material when I am done with it, which I think is next week. 
+[juncture site](https://www.juncture-digital.org/kseniaafm/essays)
