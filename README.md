@@ -126,3 +126,6 @@ Today we had the project meeting I took notes for. The main thing that I need to
 
 ## July 6th 2023
 Today we were working on the digital exhibit MVP. In the first part of the day I was finalizing my writing for the digital exhibit. I then updated my Juncture site with the new written information. Afterwards, I sent the digital writing document to Hilde, who proofread it for me. (thank you Hilde, heart emoji) In the second part of the day, I was researching about some factually misleading, I wrote it in a misleading way, information and rewriting some parts based on Hilde's comments. But overall she said that I explained most of the information in a clear and concise way. 
+
+## July 7th 2023
+Today we spent the day working on the website. I spent the first half of the day polishing my writing and fact checking as well as adding more citations for the photographs. The second part of the day I spent on web design, via minor tweaks. I added the same font and backgroun color as the original website, made a side menu, added photographs for the subject cards as well as the "nuclear power" card. I also got rid of miscellaneous sample text that Alice left as an example, as well as some final polishing in order to be sent to Jose. 
