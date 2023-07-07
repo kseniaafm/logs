@@ -123,3 +123,6 @@ Today in the first part of the day the team and I had personal meetings with Jos
 
 ## July 5th 2023
 Today we had the project meeting I took notes for. The main thing that I need to focus on writing up my digital exhibit. I am almost done but it is hard to put things in simple terms. I am also waiting on the response of the physics professor with any corrections. In the second part of the day I worked on and completed my box. It looks so cute!
+
+## July 6th 2023
+Today we were working on the digital exhibit MVP. In the first part of the day I was finalizing my writing for the digital exhibit. I then updated my Juncture site with the new written information. Afterwards, I sent the digital writing document to Hilde, who proofread it for me. (thank you Hilde, heart emoji) In the second part of the day, I was researching about some factually misleading, I wrote it in a misleading way, information and rewriting some parts based on Hilde's comments. But overall she said that I explained most of the information in a clear and concise way. 
