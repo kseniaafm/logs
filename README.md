@@ -138,3 +138,6 @@ Today I spent the first part of the day on doing the readings for Cameron's pres
 
 ## July 12th 2023
 Today we spent the first part of the day we came up with the way we were going to transform the photos. We decided that we will upload them to illustrator and then trace over them. Then we will engrave them on a wood block with a laser. In the second part of the day, I took some portraits we have engraved and started painting them in grayscale. These will not be used however we did realize that it would be easier to make the faces larger and used the lines more of a guide rather than coloring them in contrasting colors since they are so small. 
+
+## July 13th 2023
+Today I finished the remaining people to be traced. Now they are all done. Afterwards we had a workshop on internet preservation, which was very informational. In the second half of the day we cut, sanded, and primed the wood we will use for the portraits. We are using reclaimed wood which I am happy about because if we are talking about internet sustainability then we should carry the same sentiment to the physical exhibition. Afterwards, while the wood was drying we learned about circuitry and made a plan for how we will use circuits for the lighting up buttons of the control panel. 
