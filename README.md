@@ -148,3 +148,6 @@ Today I helped Leela with the portrait descriptions that they were working on fo
 
 ## July 17th 2023
 Today I spend the whole day working on tehdigital exhibit. The first part of the day I added more contextualizing details, requested by Jose. Afterwards we had our project meeting, in which we mostly discussed footnotes and settled on keep them about as is, except to scale back on their usage in the written works of the exhibit. In the second half of the day, I did more web development parts. I added a new header as well as a "read further" section. I did some cleaning up with the dummy text on the main website as well and made the headings bigger. 
+
+## July 18th 2023
+Today we spent the whole day painting portraits and Skye and I also were tracing them on wood via the laser. I think we are done with about 1/3 of all the portraits. 
