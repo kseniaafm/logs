@@ -151,3 +151,6 @@ Today I spend the whole day working on tehdigital exhibit. The first part of the
 
 ## July 18th 2023
 Today we spent the whole day painting portraits and Skye and I also were tracing them on wood via the laser. I think we are done with about 1/3 of all the portraits. 
+
+## July 19th 2023
+Today we spent the day working on portraits. In the first part of the day I was painting them onto the traced wood. In the second part of the day, Skye and I finished lasering them onto the wood for tracing. And then I painted again. 
