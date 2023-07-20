@@ -154,3 +154,6 @@ Today we spent the whole day painting portraits and Skye and I also were tracing
 
 ## July 19th 2023
 Today we spent the day working on portraits. In the first part of the day I was painting them onto the traced wood. In the second part of the day, Skye and I finished lasering them onto the wood for tracing. And then I painted again. 
+
+## July 20th 2023
+Today I spent the first part of the day editing my footnotes with Hilde's comments. I also started typing and editing the introductory paragraph for the whole website. Jose wanted it promptly in order to update the text on the "About" page. After lunch, we delegated tasks for the presentation and I kept trying to incorporate the introductory paragraph into the main juncture website. Then we had a LITS luncheon. Afterwards, I worked on filling my presentation slide with my topic information. I tried again to incoporate the introductory paragraph but it isn't working and Alice told me that she will look into the issue more. (The issue being half of my written text is hidden from the page)
