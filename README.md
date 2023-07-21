@@ -157,3 +157,6 @@ Today we spent the day working on portraits. In the first part of the day I was 
 
 ## July 20th 2023
 Today I spent the first part of the day editing my footnotes with Hilde's comments. I also started typing and editing the introductory paragraph for the whole website. Jose wanted it promptly in order to update the text on the "About" page. After lunch, we delegated tasks for the presentation and I kept trying to incorporate the introductory paragraph into the main juncture website. Then we had a LITS luncheon. Afterwards, I worked on filling my presentation slide with my topic information. I tried again to incoporate the introductory paragraph but it isn't working and Alice told me that she will look into the issue more. (The issue being half of my written text is hidden from the page)
+
+## July 21st 2023
+Today in the first part of the day I lasered on the rest of the portraits onto the wood. Afterwards I painted another portrait. Before lunch we were all done with the portraits. In the second half of the day I helped wrapped the dried portraits for storage. I then worked on the slides a bit and then created the operating manual cover for the book we will print. Afterwards I did some text editing for the portrait descriptions. 
