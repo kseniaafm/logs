@@ -160,3 +160,6 @@ Today I spent the first part of the day editing my footnotes with Hilde's commen
 
 ## July 21st 2023
 Today in the first part of the day I lasered on the rest of the portraits onto the wood. Afterwards I painted another portrait. Before lunch we were all done with the portraits. In the second half of the day I helped wrapped the dried portraits for storage. I then worked on the slides a bit and then created the operating manual cover for the book we will print. Afterwards I did some text editing for the portrait descriptions. 
+
+## July 24th 2023
+Today in the first part of the day I made some new edits to the cover of the manual, using Jose's comments. He wanted me to reword the title and use the updated logo. I did both and edited the logo a bit in order to fit the general theme. Then we had the usual project meeting in which we discussed the updates on the project. In the second part of the day I worked on portrait descriptions but mostly on the interior of the operating manual. 
