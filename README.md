@@ -166,3 +166,6 @@ Today in the first part of the day I made some new edits to the cover of the man
 
 ## July 25th 2023
 Today I spent the first part of the day altering the presentation using the comments Alice and Jose have provided. I have also transcribed all of the information from the internal manual. We also practiced the presentation, which ended up being a success. In the second half of the day, I recieved some comments from Hilde and Jose on how to improve the wording. I started making the edits and will continue next time we are in the DMCL. 
+
+## July 28th 2023
+Today I spent the first part of the day working on finishing up the sides of the portraits. Afterwards I was painting the rest of the walls with the rest of the team. In the second half of the day we had one on one meetings. I also did the illustrator mockups with Leela for them to be printed out. We did some cleaning up of the makerspace and then did some layouts of the portraits. 
