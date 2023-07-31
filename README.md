@@ -172,3 +172,6 @@ Today I spent the first part of the day working on finishing up the sides of the
 
 ## July 31st 2023
 Today I put the edited manual text into the previous template I made and did more design edits in order to fit in more text. We then had a team meeting in which we did some final wrap-up discussions. Afterwards, I worked on creating wall text for the portraits. When I was done, I wrote my bio for the site. 
+
+Bio: 
+Ksenia is an intended Biology major with a Data Science and Russian minor, who is interested in data visualizing of topics related to sustainability and leaving a smaller carbon footprint behind. She is interested in building a digital exhibition while acquiring data visualization, project management, and web development skills with her team. In her free time, Ksenia likes spending time in nature, listening to music, and reading. 
