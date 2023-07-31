@@ -169,3 +169,6 @@ Today I spent the first part of the day altering the presentation using the comm
 
 ## July 28th 2023
 Today I spent the first part of the day working on finishing up the sides of the portraits. Afterwards I was painting the rest of the walls with the rest of the team. In the second half of the day we had one on one meetings. I also did the illustrator mockups with Leela for them to be printed out. We did some cleaning up of the makerspace and then did some layouts of the portraits. 
+
+## July 31st 2023
+Today I put the edited manual text into the previous template I made and did more design edits in order to fit in more text. We then had a team meeting in which we did some final wrap-up discussions. Afterwards, I worked on creating wall text for the portraits. When I was done, I wrote my bio for the site. 
