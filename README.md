@@ -175,3 +175,7 @@ Today I put the edited manual text into the previous template I made and did mor
 
 Bio: 
 Ksenia is an intended Biology major with a Data Science and Russian minor, who is interested in data visualizing of topics related to sustainability and leaving a smaller carbon footprint behind. She is interested in building a digital exhibition while acquiring data visualization, project management, and web development skills with her team. In her free time, Ksenia likes spending time in nature, listening to music, and reading. 
+
+
+## August 1st 2023
+Today I was working on creating "Back to Main Page" buttons on every juncture site as well as the main site. I then started my reflection, but did not finish. I did a test print of the manual and got feedback on it. I incorporated the edits and did some moving around of the words. In the second half of the day I kept working on the manual and focused mostly on promotional materials. I came up with the polaroid idea and did some mock-ups. I also finished my reflection at the very end of the day. 
